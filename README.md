@@ -1,6 +1,4 @@
 # Vehicle_Sound_Classification
- Roadside Vehicle Sound Classification Using Deep Learning
-Project Overview
 This project focuses on the classification of roadside vehicle-related sounds—including car horns, ambulance sirens, engine noises, and general traffic sounds—using deep learning techniques. The goal is to support Intelligent Transportation Systems (ITS) and smart city infrastructures by enabling the real-time recognition of traffic patterns and emergency vehicles through acoustic analysis.
 
 # Objective
