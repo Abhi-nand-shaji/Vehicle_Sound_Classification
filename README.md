@@ -5,6 +5,7 @@ This project focuses on the classification of roadside vehicle-related sounds—
 
 *Objective*
 To develop a robust and scalable sound classification system that can:
+
 Identify and differentiate between multiple vehicle-related sounds
 Assist smart traffic management systems in prioritizing emergency responses
 Enhance situational awareness for hearing impared people in autonomous and connected vehicle environments
